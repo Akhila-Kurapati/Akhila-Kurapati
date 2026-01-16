@@ -62,6 +62,7 @@
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/akhila-kurapati-4b20212a4)  
 - 📧 Email: (akhilakurapati0123@gmail.com)
+- portfolio: (https://akkii-portfolio.lovable.app)
 
 ---
 
