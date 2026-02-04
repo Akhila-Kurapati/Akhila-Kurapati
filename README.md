@@ -1,86 +1,51 @@
-<h1 align="center">Hii 👋 I'm Akhila </h1>
-<h3 align="center">Final Year BTech CSE Student 👩‍💻 | Cute Coder 💖</h3>
+<h1 align="center">Hi 👋 I'm Akhila</h1>  
+<h3 align="center">Final Year B.Tech CSE Student | Aspiring Full Stack Developer</h3>  
 
-<p align="center">
-  🌈 Dream • Code • Create • Repeat ✨
-</p>
-
----
-
-### 🧸 About Me
-
-- 👩‍🎓 Final Year **BTech CSE Student**
-- 💕 I love **coding, learning & creating**
-- 🌱 Currently learning **Machine Learning**
-- 🎮 **Free Fire Gamer** (Cute but dangerous 😎🔥)
-- 🎬 **Video Editor** – I turn moments into magic ✨
-- 🧠 Curious mind + Soft heart 💖
+<p align="center">  
+  🌈 Dream • Code • Create • Repeat ✨  
+</p>  
 
 ---
 
-### 🌸 My Cute Skills
+## 👩‍💻 About Me  
 
-- 💻 **Python** – my first coding love 💕  
-- ☕ **Java** – learning step by step  
-- 🗄 **SQL** – I talk to databases 😄  
-- 🌐 **HTML & CSS** – making things pretty 🎀  
-- 🎨 **Video Editing** – creativity mode ON ✨
-
----
-
-### 🍓 My Projects
-
-- 🎵 **Emotion-Based Music Recommendation System**  
-  _Because emotions deserve the right music 💖🎶_
-
-- 🏢 **Employee Management System**  
-  _Managing employees with code & care 👩‍💼✨_
-
-
-
-
-- 🎬 **Video Reverse Project** 💫
-
-
-  _Turning videos backwards with code & creativity ✨_
-
-
-(More cute projects coming soon… 🥰)
+- Final Year **B.Tech in Computer Science Engineering**  
+- Passionate about **coding, learning, and building impactful projects**  
+- Currently exploring **Machine Learning**  
+- Enthusiastic **gamer** and **video editor** with a creative mindset  
+- Curious problem solver with a strong interest in **technology and design**  
 
 ---
 
-### 🌼 My Little Goals
+## 💡 Technical Skills  
 
-- 🟩 Fill my GitHub with green squares  
-- 💻 Become a confident developer  
-- 🌟 Grow slowly but strongly  
-- 💖 Make my family proud  
-
----
-
-### 💌 Let’s Be Friends
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/akhila-kurapati-4b20212a4)  
-- 📧 Email: (akhilakurapati0123@gmail.com)
-- portfolio: (https://akkii-portfolio.lovable.app)
+- **Python** – Strong foundation with hands-on coding and debugging  
+- **Java** – Building proficiency step by step  
+- **SQL** – Experienced in database management and queries  
+- **HTML & CSS** – Crafting responsive and visually appealing web pages  
+- **Video Editing** – Creative storytelling through digital content  
 
 ---
 
-<p align="center">
+
+## 🎯 Goals  
+
+- Build a strong GitHub portfolio with consistent contributions  
+- Grow into a confident and skilled **Full Stack Developer**  
+- Continuously improve technical and problem-solving abilities  
+- Make meaningful contributions that make my family proud  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akhila-kurapati-4b20212a4)  
+- 📧 Email: **akhilakurapati0123@gmail.com**  
+- 🌐 [Portfolio](https://akkii-portfolio.lovable.app)  
+
+---
+
+<p align="center">  
   💕 Thanks for visiting my profile 💕  
-  🌸 Sending you good vibes & smiles 🌸
-
-<!--
-**Akhila-Kurapati/Akhila-Kurapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🌸 Wishing you good vibes & success 🌸  
+</p>  
