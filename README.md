@@ -22,7 +22,7 @@
 - **Python** – Strong foundation with hands-on coding and debugging  
 - **Java** – Building proficiency step by step  
 - **SQL** – Experienced in database management and queries  
-- **HTML & CSS** – Crafting responsive and visually appealing web pages  
+- **HTML , CSS & JS** – Crafting responsive and visually appealing web pages  
 - **Video Editing** – Creative storytelling through digital content  
 
 ---
